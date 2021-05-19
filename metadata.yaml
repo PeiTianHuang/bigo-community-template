@@ -1,5 +1,5 @@
 homepage: "https://ads.bigo.sg"
 documentation: "https://github.com/PeiTianHuang/bigo-community-template"
 versions:
-  - sha: 5353b2befc46543c7db826daad4e5268bf9d87ae
+  - sha: 4db7d12b5b706fd4dc68ea048178c6f7df0b0589
     changeNotes: Init Project
